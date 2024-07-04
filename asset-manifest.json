@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-website-metflix/static/css/main.10a58408.css",
+    "main.js": "/movie-website-metflix/static/js/main.2d8b6b71.js",
+    "index.html": "/movie-website-metflix/index.html",
+    "static/media/search.svg": "/movie-website-metflix/static/media/search.3af80ee6cd4cef973810f74b91e10f80.svg",
+    "main.10a58408.css.map": "/movie-website-metflix/static/css/main.10a58408.css.map",
+    "main.2d8b6b71.js.map": "/movie-website-metflix/static/js/main.2d8b6b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a58408.css",
+    "static/js/main.2d8b6b71.js"
+  ]
+}
